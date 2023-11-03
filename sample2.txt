@@ -1,0 +1,1 @@
+i am sample2 text file file in branch1 from master
