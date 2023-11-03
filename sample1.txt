@@ -1,1 +1,2 @@
 i am sample1 from master branch
+new line
