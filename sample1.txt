@@ -1,3 +1,1 @@
 i am sample1 from master branch
-
-second statement in the sample1 file
